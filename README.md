@@ -1,1 +1,24 @@
-IyBYRG9jayBSZWxlYXNlcwoKWERvY2sgaXMgYSBkb2NrYWJsZSBwYW5lbCBmb3IgUGhvdG9zaG9wIGFuZCBBZnRlciBFZmZlY3RzIG9uIFdpbmRvd3MuIEluc2VydCBlbW9qaSBhbmQgbG9jYWwgYXNzZXRzLCBhcnJhbmdlIGxheWVycyB3aXRoIHByZWNpc2Ugc3BhY2luZywgcmVzaXplIGFydHdvcmssIGFkZCBzYWZlLWFyZWEgZ3VpZGVzLCBhbmQgcmVuYW1lIG11bHRpcGxlIGxheWVycyBhdCBvbmNlLgoKW0Rvd25sb2FkIHRoZSBsYXRlc3QgcmVsZWFzZV0oaHR0cHM6Ly9naXRodWIuY29tL1gzMTRTL1hEb2NrLVJlbGVhc2VzL3JlbGVhc2VzL2xhdGVzdCkKCiMjIENvbXBhdGliaWxpdHkKCi0gKipQaG90b3Nob3A6KiogMjMueCB0aHJvdWdoIDI4Lnggd2l0aCBDRVAgLyBFeHRlbnNpb25zIChMZWdhY3kpCi0gKipBZnRlciBFZmZlY3RzOioqIDIyLnggKDIwMjIpIHdpdGggQ0VQCi0gKipQbGF0Zm9ybToqKiBXaW5kb3dzCgojIyBJbnN0YWxsCgoxLiBGb3IgYSBmcmVzaCBpbnN0YWxsYXRpb24sIGdldCB0aGUgKipmdWxsIFdpbmRvd3MgcGFja2FnZSoqIGZyb20gdGhlIFt2MS40LjAgcmVsZWFzZV0oaHR0cHM6Ly9naXRodWIuY29tL1gzMTRTL1hEb2NrLVJlbGVhc2VzL3JlbGVhc2VzL3RhZy92MS40LjApIGZpcnN0LiBJdCBpbmNsdWRlcyB0aGUgZW1vamkgbGlicmFyeS4KMi4gRG93bmxvYWQgdGhlIFdpbmRvd3MgKipVcGRhdGUgWklQKiogZnJvbSB0aGUgW2xhdGVzdCByZWxlYXNlXShodHRwczovL2dpdGh1Yi5jb20vWDMxNFMvWERvY2stUmVsZWFzZXMvcmVsZWFzZXMvbGF0ZXN0KS4KMy4gQ2xvc2UgUGhvdG9zaG9wIGFuZCBBZnRlciBFZmZlY3RzLiBFeHRyYWN0IHRoZSBaSVAgYW5kIHJ1biBgSW5zdGFsbC5jbWRgLiBJZiBpbnN0YWxsaW5nIGJvdGggcGFja2FnZXMsIHJ1biB0aGUgZnVsbCBpbnN0YWxsZXIgZmlyc3QsIHRoZW4gdGhlIHVwZGF0ZSBpbnN0YWxsZXIuCjQuIEluIFBob3Rvc2hvcCwgb3BlbiAqKldpbmRvdyDihpIgRXh0ZW5zaW9ucyAoTGVnYWN5KSDihpIgWERvY2sqKi4gSW4gQWZ0ZXIgRWZmZWN0cywgb3BlbiAqKldpbmRvdyDihpIgRXh0ZW5zaW9ucyDihpIgWERvY2sqKi4KCiMjIENoZWNrIGZvciB1cGRhdGVzCgpJbiBYRG9jayAxLjguMSBvciBsYXRlciwgb3BlbiAqKlNldHRpbmdzIOKGkiBDaGVjayBmb3IgdXBkYXRlcyDihpIgRG93bmxvYWQgYW5kIGluc3RhbGwqKi4gV2hlbiBwcm9tcHRlZCwgc2F2ZSB5b3VyIHdvcmssIGNsb3NlIGJvdGggQWRvYmUgYXBwcywgYW5kIHNlbGVjdCAqKlJldHJ5KiouCgpJZiBhIHZlcnNpb24gaW5zdGFsbGVkIGJlZm9yZSB0aGUgcmVwb3NpdG9yeSByZW5hbWUgY2Fubm90IGZpbmQgdGhlIHVwZGF0ZSwgdXNlIHRoZSBtYW51YWwgaW5zdGFsbGF0aW9uIHN0ZXBzIGFib3ZlIG9uY2UgdG8gc3dpdGNoIHRvIHRoZSBuZXcgcmVsZWFzZSBhZGRyZXNzLgo=
+# XDock Releases
+
+XDock is a dockable panel for Photoshop and After Effects on Windows. Insert emoji and local assets, arrange layers with precise spacing, resize artwork, add safe-area guides, and rename multiple layers at once.
+
+[Download the latest release](https://github.com/X314S/XDock-Releases/releases/latest)
+
+## Compatibility
+
+- **Photoshop:** 23.x through 28.x with CEP / Extensions (Legacy)
+- **After Effects:** 22.x (2022) with CEP
+- **Platform:** Windows
+
+## Install
+
+1. For a fresh installation, get the **full Windows package** from the [v1.4.0 release](https://github.com/X314S/XDock-Releases/releases/tag/v1.4.0) first. It includes the emoji library.
+2. Download the Windows **Update ZIP** from the [latest release](https://github.com/X314S/XDock-Releases/releases/latest).
+3. Close Photoshop and After Effects. Extract the ZIP and run `Install.cmd`. If installing both packages, run the full installer first, then the update installer.
+4. In Photoshop, open **Window → Extensions (Legacy) → XDock**. In After Effects, open **Window → Extensions → XDock**.
+
+## Check for updates
+
+In XDock 1.8.1 or later, open **Settings → Check for updates → Download and install**. When prompted, save your work, close both Adobe apps, and select **Retry**.
+
+If a version installed before the repository rename cannot find the update, use the manual installation steps above once to switch to the new release address.
